@@ -1,0 +1,34 @@
+{
+  "name": "Scenario 1 - Even Spacing",
+  "weights": {
+    "individual": 1.0,
+    "operator": 1.0,
+    "overall": 1.0
+  },
+  "buses": {
+    "BK": [
+      {"id": "bus-BK-01", "company": "kpn", "start_time": "19:00"},
+      {"id": "bus-BK-02", "company": "freshbus", "start_time": "19:15"},
+      {"id": "bus-BK-03", "company": "flixbus", "start_time": "19:30"},
+      {"id": "bus-BK-04", "company": "kpn", "start_time": "19:45"},
+      {"id": "bus-BK-05", "company": "freshbus", "start_time": "20:00"},
+      {"id": "bus-BK-06", "company": "flixbus", "start_time": "20:15"},
+      {"id": "bus-BK-07", "company": "kpn", "start_time": "20:30"},
+      {"id": "bus-BK-08", "company": "freshbus", "start_time": "20:45"},
+      {"id": "bus-BK-09", "company": "flixbus", "start_time": "21:00"},
+      {"id": "bus-BK-10", "company": "kpn", "start_time": "21:15"}
+    ],
+    "KB": [
+      {"id": "bus-KB-01", "company": "freshbus", "start_time": "19:00"},
+      {"id": "bus-KB-02", "company": "flixbus", "start_time": "19:15"},
+      {"id": "bus-KB-03", "company": "kpn", "start_time": "19:30"},
+      {"id": "bus-KB-04", "company": "freshbus", "start_time": "19:45"},
+      {"id": "bus-KB-05", "company": "flixbus", "start_time": "20:00"},
+      {"id": "bus-KB-06", "company": "kpn", "start_time": "20:15"},
+      {"id": "bus-KB-07", "company": "freshbus", "start_time": "20:30"},
+      {"id": "bus-KB-08", "company": "flixbus", "start_time": "20:45"},
+      {"id": "bus-KB-09", "company": "kpn", "start_time": "21:00"},
+      {"id": "bus-KB-10", "company": "freshbus", "start_time": "21:15"}
+    ]
+  }
+}
